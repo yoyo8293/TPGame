@@ -1,0 +1,10 @@
+DerivedDataCache/
+Intermediate/
+Build
+Binaries/
+Saved/
+Publish/
+.idea/
+.vs/
+.vsconfig
+global.json
