@@ -1,0 +1,9 @@
+# 排除二进制和生成文件
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+Content/**/*.uasset
+Content/**/*.umap
+.vs/
+*.sln
